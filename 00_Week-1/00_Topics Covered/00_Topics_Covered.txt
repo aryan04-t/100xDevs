@@ -1,0 +1,6 @@
+1. VS Code (IDE) 
+2. HTML 
+3. CSS 
+4. JS 
+5. DOM 
+6. Assignments 
