@@ -29,7 +29,7 @@ nav .nav-logo{
     max-height: 17px;
     position: relative;
     top: 22px;
-    left: 15px;
+    left: 25px;
 }
 
 nav .nav-list{
@@ -96,7 +96,7 @@ nav .nav-list-container .hamburger-icon a #hamburger-line-3{
 
 .landing-image-section .landing-image-div{
     height: auto;
-    max-width: 700px;
+    max-width: 750px;
     margin: 0px 6vw;
 }
 
